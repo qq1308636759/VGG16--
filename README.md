@@ -5,4 +5,4 @@
 #框架：基于tensorflow2.1 python3.7 
 #模型训练：GPU 英伟达2070max-Q 8G
 1.预测精度
-https://github.com/qq1308636759/VGG16--/blob/53717d5c43f2ca4e73fb6b96469263ec6d5f2d00/1.png
+  ![Image text]( https://github.com/qq1308636759/VGG16--/blob/53717d5c43f2ca4e73fb6b96469263ec6d5f2d00/1.png)
